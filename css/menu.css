@@ -1,0 +1,18 @@
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #212425;
+}
+#project {
+    background-color: #212425;
+}
+#about {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #212425;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
